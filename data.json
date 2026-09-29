@@ -1,0 +1,74 @@
+{
+  "name": "Kim Jun Young",
+  "role": "Backend engineer",
+  "location": "Seoul",
+  "email": "me@kimjunyoung.com",
+  "github": "https://github.com/k1mjunyoung",
+  "education": "Bachelor of Science in Information Security Engineering, SCH University",
+  "club": "LikeLion 11th",
+  "career": [
+    {
+      "company": "UST21",
+      "date": "2024-08~current",
+      "role": "Backend engineer"
+    },
+    {
+      "company": "Bluecore",
+      "date": "2024-01~2024-07",
+      "role": "Backend engineer"
+    },
+    {
+      "company": "Bluecore",
+      "date": "2023-06~2023-12",
+      "role": "Intern"
+    }
+  ],
+  "projects": [
+    {
+      "name": "국립환경과학원 환경위성센터 프로젝트",
+      "description": "환경위성을 포함한 대기오염 관측자료의 국외 배포를 위한 서비스 체계 개발 및 구축",
+      "date": "2026"
+    },
+    {
+      "name": "국립해양조사원 바다누리 해양통합서비스",
+      "description": "신규기능(정보마당) 개발 및 유지보수",
+      "date": "2025",
+      "url": "https://www.khoa.go.kr/oceandata/information/board/boardNoticeList.do"
+    },
+    {
+      "name": "K-FORM",
+      "description": "케이에듀테크 온라인 설문조사 시스템 개발",
+      "date": "2025"
+    },
+    {
+      "name": "KT UMS",
+      "description": "KT UMS(통합메세징시스템) API 개발",
+      "date": "2024",
+      "url": "https://communis.kt.co.kr"
+    },
+    {
+      "name": "순천향대학교 AI빅데이터센터",
+      "description": "신규기능 개발 및 유지보수",
+      "date": "2023",
+      "url": "http://aibig.sch.ac.kr"
+    },
+    {
+      "name": "Withus",
+      "description": "중앙대학교 간호대학원 환자관리플랫폼",
+      "date": "2023"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Spring",
+    "JPA",
+    "React",
+    "Next.js",
+    "MySQL",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "Git",
+    "Figma"
+  ]
+}
